@@ -35,9 +35,9 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564523816700",
-    "61565025325331",
-    "100076969407340"
+    "100011768052998",
+    "100072663543095",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -48,18 +48,18 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ar Yan🍫",
-  "prefix": "*",
+  "nickNameBot": "SOHAN🍫",
+  "prefix": "/",
   "ArYanapi": "",
   "api": "",
   "api2": "",
   "api3": "",
   "authorName": "ArYan",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
+  "facebook2": "https://www.facebook.com/#",
+  "facebook": "https://www.facebook.com/#",
   "email": "davidaryan397@gmail.com",
-  "replit": "https://replit.com/@DAVID-RAJ",
-  "github": "https://github.com/DAVID-ARYAN-RAJ/ARYAN-RAJ",
+  "replit": "https://replit.com/#",
+  "github": "https://github.com/#",
   "insta": "no",
   "age": "18+",
   "TG": "",
